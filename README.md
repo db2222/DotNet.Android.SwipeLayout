@@ -1,5 +1,6 @@
 # DotNet.Android.SwipeLayout
 This is a ```.NET 8``` compatible version of https://www.nuget.org/packages/Xamarin.AndroidSwipeLayout. \
+It can be found under https://www.nuget.org/packages/Android.SwipeLayout. \
 \
 The original source code can be found under https://github.com/xamarin/XamarinComponents/tree/main/Android/AndroidSwipeLayout. \
 However, the project ```XamarinComponents``` is abandoned. There is no migrated alternative. \
