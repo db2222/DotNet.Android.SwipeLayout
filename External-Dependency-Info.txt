@@ -1,6 +1,20 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+Do not translate or localize
+
+Xamarin Components for AndroidSwipeLayout incorporates 
+third party material from the projects listed below. The original copyright 
+notice and the license under which Microsoft received such third party 
+material are set forth below.  Microsoft reserves all other rights not 
+expressly granted, whether by implication, estoppel or otherwise.
+
+########################################
+# AndroidSwipeLayout
+# https://github.com/daimajia/AndroidSwipeLayout
+########################################
+
 The MIT License (MIT)
 
-Copyright (c) .NET Foundation Contributors, Daniel Bonecke
+Copyright (c) 2014 代码家
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
